@@ -17,7 +17,7 @@ Members can link up, see events, sign up for events, and connect with other memb
 
 
 Deplyed Front-End Link
-
+    'https://openvillageapp.firebaseapp.com/#/'
 
 Deployed Back-End Link
     'https://openvillageapp.herokuapp.com/events'
