@@ -23,8 +23,8 @@ export default {
   },
   methods: {
     getData(){
-      // fetch('https://openvillage.herokuapp.com/events')
-      fetch('http://localhost:9000/events')
+      fetch('https://openvillageapp.herokuapp.com/events')
+      // fetch('http://localhost:9000/events')
         .then(response => response.json())
         .then(myData => this.allEvents = myData.event)
     }

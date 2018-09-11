@@ -63,8 +63,8 @@ export default {
   },
   methods: {
     postNewEvent(){
-      // fetch('https://openvillage.herokuapp.com/events', {
-      fetch('http://localhost:9000/events', {
+      fetch('https://openvillageapp.herokuapp.com/events', {
+      // fetch('http://localhost:9000/events', {
         method: 'POST',
         headers: { "content-type": "application/json" },
         body: JSON.stringify(this.formData)

@@ -16,10 +16,11 @@ Members can link up, see events, sign up for events, and connect with other memb
     We built our Frontend with Vue, Firebase, and Google Maps.
 
 
+Deplyed Front-End Link
 
 
 Deployed Back-End Link
-    'https://openvillage.herokuapp.com/events'
+    'https://openvillageapp.herokuapp.com/events'
 
 Back-End GitHub Repo
     'https://github.com/WillKirkhope/Group-Proj-Backend'

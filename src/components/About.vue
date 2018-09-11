@@ -31,8 +31,8 @@ export default {
 
   methods: {
   getMembers() {
-    // fetch("https://openvillage.herokuapp.com/neighbors")
-    fetch('http://localhost:9000/neighbors')
+    fetch("https://openvillageapp.herokuapp.com/neighbors")
+    // fetch('http://localhost:9000/neighbors')
       .then(response => response.json())
       .then(myData => this.members = (myData.event))
     }

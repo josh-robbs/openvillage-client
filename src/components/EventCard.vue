@@ -19,8 +19,8 @@ export default {
   methods: {
     deleteEvent (event) {
       const event_id = event.target.id
-      // fetch(`https://openvillage.herokuapp.com/events/${this.myEvents.id}`, {
-      fetch(`http://localhost:9000/events/${this.myEvents.id}`, {
+      fetch(`https://openvillageapp.herokuapp.com/events/${this.myEvents.id}`, {
+      // fetch(`http://localhost:9000/events/${this.myEvents.id}`, {
         method: 'DELETE'
       })
     }
