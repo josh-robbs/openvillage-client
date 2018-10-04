@@ -1,48 +1,46 @@
-# client
+# OpenVillage
 
-> OpenVillage refactor
+Welcome to OpenVillage - a great little meetup app to help you get things done in your community!
 
-
-Open Village
-
-    Open Village is a meet up app intended to help people research community Service events in their local area.
-    We have the modern solution to the problem of getting community service events started and staffed! Every community needs help, services that need to be done. Trash pick up, help the elderly, general community service, but getting groups together and a better interface for people to connect on these projects is a tall task.
+OpenVillage is a meet up app intended to help people research community Service events in their local area.
+We have the modern solution to the problem of getting community service events started and staffed! Every community needs help and have services that need to be done. Trash pick up, help the elderly, general community service, but getting groups together and a better interface for people to connect on these projects is a tall task.
 
 Our App will help by linking community members into groups to assign tasks and create a network to facilitate completion of these task in a quick and clean manner.
 
 Members can link up, see events, sign up for events, and connect with other members to get these tasks started. Our app acts as an interface to get a group of people together for said Community Service events.
 
-    If you are checking out our code, you will need to run an npm install for dependencies.
-    We built our Frontend with Vue, Firebase, and Google Maps.
+
+<img src="https://github.com/josh-robbs/openvillage-client/blob/master/src/assets/openvillage.png" alt="Splash Page, OpenVillage" width="500"/>
 
 
-Deplyed Front-End Link
-    'https://openvillageapp.firebaseapp.com/#/'
+### Deployed Frontend App:
+https://openvillageapp.firebaseapp.com/#/
 
-Deployed Back-End Link
-    'https://openvillageapp.herokuapp.com/events'
+### Client-side code:
+https://github.com/josh-robbs/openvillage-client
 
-Back-End GitHub Repo
-    'https://github.com/WillKirkhope/Group-Proj-Backend'
+### Deployed Backend App:
+https://openvillageapp.herokuapp.com/events
+
+### Server-side code:
+https://github.com/WillKirkhope/Group-Proj-Backend
 
 
 
+###### Install:
+Clone the repo.
+`npm install`
 
 
-## Build Setup
+###### Contact Info
+josh.robbs@gmail.com
 
-``` bash
-# install dependencies
-npm install
 
-# serve with hot reload at localhost:8080
-npm run dev
+###### License
+Copyright 2018 Josh Robbs
 
-# build for production with minification
-npm run build
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
-# build for production and view the bundle analyzer report
-npm run build --report
-```
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
