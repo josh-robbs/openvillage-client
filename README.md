@@ -9,6 +9,8 @@ Our App will help by linking community members into groups to assign tasks and c
 
 Members can link up, see events, sign up for events, and connect with other members to get these tasks started. Our app acts as an interface to get a group of people together for said Community Service events.
 
+Note: This is a refactor of a group project - the original code and workflow can be found [here](https://github.com/WillKirkhope/Group-Proj-Frontend) 
+
 
 <img src="https://github.com/josh-robbs/openvillage-client/blob/master/src/assets/openvillage.png" alt="Splash Page, OpenVillage" width="500"/>
 
